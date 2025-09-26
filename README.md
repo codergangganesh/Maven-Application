@@ -26,8 +26,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository** (if you haven't already):
    ```bash
-   git clone https://github.com/yourusername/Maven-application.git
-   cd Maven-application
+   git clone https://github.com/yourusername/Todo_Maven-application.git
+   cd Todo_Maven-application
    ```
 
 2. **Set up the MySQL database**:
@@ -140,6 +140,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 For support, please open an issue in the GitHub repository or contact the maintainers.
+
 
 
 
